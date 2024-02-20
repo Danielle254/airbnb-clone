@@ -1,3 +1,7 @@
+#React Project focusing on props and mapping
+
+Practice project created with independent study and the use of a tutorial. Focused on refreshing my understanding of props and mapping over elements to create several same react components. This is a "clone" of a static Airbnb webpage. Minimal functionality but does include CSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
